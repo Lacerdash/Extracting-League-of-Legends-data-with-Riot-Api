@@ -1,64 +1,44 @@
-# Alura Data Science Challenge
-Neste Repositório está o meu projeto desenvolvido durante a participação no Challenge de Data Scienda promovido pela Alura. A Alura é uma plataforma online brasileira de cursos de tecnologia.
+# **ENGLISH VERSION**
+## INTRODUCTION TO RIOT API - EXTRTACTING MATCH DATA FROM PLAYERS MASTER +
 
-O objetivo desse Challenge é aprofundar os conhecimentos dos alunos na área de Data Science, por meio de desafios práticos.
+Hi my name is Fernando and this repository is a guide to help people like me that like data science and LOL to understand how to use the RIOT API. As a final result you will learn how to interact with RIOT API in order to create your own matchdata DataFrame, containing informations as: kills, Deaths, Assitences, Champion Name, Champion Level, with it was won or lost and many other.
 
----
+In this guide you will learn about:
 
-## Sobre o Challenge
+- Setting up to do your first Api call
+- Transforming the result into a DataFrame
+- Creating functions
+- How the Riot api is structured
+- Dealing with Rate Limits
 
-**Empresa Solicitante:** Alura Voz, operadora de telecomunicações.
+You can acess all the DataFrame I have generated [here](https://github.com/Lacerdash/Extracting-League-of-Legends-data-with-Riot-Api/blob/main/Files) and the final DataFrame with all the matchdata [here](https://github.com/Lacerdash/Extracting-League-of-Legends-data-with-Riot-Api/blob/main/Files/matchData_df.zip)
 
-**Objetivo:** Reduzir o Churn Rate, isto é, a Taxa de Evasão de Clientes. 
+You can connect with me in linkedin if you want to: https://www.linkedin.com/in/fernando-lacerda-/
 
-**Dados disponibilizados:** Foi disponibilizado um conjuto de dados no formato json, junto com um arquivo contendo o dicionário desses dados
-
-**Entrega:** Ao final de cada semana, será entregue um Notebook Python, desenvolvido no VSCODE, com  o código e análises efetuados para a resolução das atividades solicitadas pela empresa. Adicionalmente, poderão ser disponibilizados  arquivos CSV com resultados obtidos, bem como imagens de gráficos gerados. Tanto os Notebooks quanto os arquivos adicionais ficarão disponíveis no [Repositório criado para o projeto no GitHub](https://github.com/Lacerdash/Alura_Challenge_Data_Science).
-
-**Linguagem:** Python foi a linguagem utilizada no desenvolvimento, utilizando Jupyer Notebooks para apresentar os resultados. Os principais pacotes utilizados foram:
-
-**Bibliotecas utilizadas:**
-- pandas
-- numpy
-- plotly
-- seaborn
-- scikit-learn
-- imbalanced-learn
+**I hope this tutorial finds you well somehow. Have a good one!!** 😄😄
 
 ---
 
-## Semana 1
+<br/>
+<br/>
 
-A primeira semana é dedicada a extração dos dados em formato json para o python, para posterior transformação/limpeza dos dados, seguido da carregamento dos dados para um arquivo no formato csv. Ou seja, o processo de ETL dos dados.
+# **VERSÃO EM PORTUGUÊS**
+## INTRODUÇÃO API RIOT - EXTRAINDO DADOS DE PARTIDAS DE JOGADORES MESTRE +
 
-Nesta etapa também foi realizada a tradução dos dados para o Português.
+Olá, meu nome é Fernando e esse repositório foi criado para ajudar pessoas que gostam de Ciência de dados e League of Legend como eu. Esse guia vai ajudar você a entender como utilizar a API da RIOT. Com isso você poderá criar um projeto de análise exploratória, visual, descritiva, etc utilizando os dados que você vai aprender a gerar nesse guia, ou, até mesmo iniciar sua carreira no meio de análise de dados de LOL, tendo em visto que o entendimento da API da RIOT é fundamental para isso.
 
-O resultado final foi exportado para um [arquivo CSV](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2001/dados%20limpos.csv).
+Como resultado final desse guia, vamos gerar uma base de dados contendo informações das partidas como: Kills, mortes, assistências, Nome do Campeão, Level do campeão, total de gold e se ganhou ou perdeu a partida.
 
-Todas as atividades executadas estão documentadas neste [notebook](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2001/Limpeza%20de%20dados.ipynb).
+Nesse guia você vai aprender sobre
 
----
+- Configurar e realizar sua primeira chamada de Api
+- Transformar os resultados em um DataFrame
+- Criar funções
+- Como a Api da Riot está estruturada
+- Como lidar com o limite de chamdas da Api
 
-## Semana 2
+Você pode acessar todos os DataFrames que eu gerei nesse guia [aqui](https://github.com/Lacerdash/Extracting-League-of-Legends-data-with-Riot-Api/blob/main/Files) e o DataFrame final [aqui](https://github.com/Lacerdash/Extracting-League-of-Legends-data-with-Riot-Api/blob/main/Files/matchData_df.zip)
 
-A segunda semana foi dedicado a exploração dos dados por meio de análises visuais e descrição das conclusões/hipóteses geradas pelos gráficos e outras análises. A variável target do projeto é o churn rate (taxa de evasão). 
+Se quiser pode conectar comigo no linkedin também: https://www.linkedin.com/in/fernando-lacerda-/
 
-Nessa semana também foi possível aprender na prática como utilizar a biblioteca Plotly para criar gráficos.
-
-Todas as atividades executadas estão documentadas neste [notebook](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2002/Explorando%20os%20dados.ipynb).
-
----
-
-## Semana 3
-
-Na terceira semana, entrei na área de Machine Learning, avaliando e aplicando o balanceamento na variável target, aplicando 4 modelos de Machine Learning, e 1 dummy classifier. Para depois escolher e otimizar o melhor modelo.
-
-Essa foi a etapa de conclusão do projeto onde pude validar as hipóteses e sugerir ações para redução da taxa de evasão de clientes.
-
-Todas as atividades executadas estão documentadas no [notebook](https://github.com/Lacerdash/Alura_Challenge_Data_Science/blob/main/Semana%2003/Machine%20Learning.ipynb).
-
----
-
-## Badge de conclusão do Projeto
-
-<a href="https://imgur.com/rvbXegn"><img src="https://i.imgur.com/rvbXegn.png" title="source: imgur.com" width="200" height="200"/></a>
+**Espero que esse guia possa te ajudar de alguma forma. Aproveite!!** 😄😄
