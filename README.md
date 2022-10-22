@@ -20,7 +20,6 @@ You can connect with me in linkedin if you want to: https://www.linkedin.com/in/
 ---
 
 <br/>
-<br/>
 
 # **VERSÃO EM PORTUGUÊS**
 ## INTRODUÇÃO API RIOT - EXTRAINDO DADOS DE PARTIDAS DE JOGADORES MESTRE +
