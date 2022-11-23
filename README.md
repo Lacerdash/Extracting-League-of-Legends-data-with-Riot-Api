@@ -44,10 +44,10 @@ Se quiser pode conectar comigo no linkedin também: https://www.linkedin.com/in/
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Alura Data Science Challenge**
+| :sparkles: Nome        | **Riot API Project**
 | :label: Tecnologias | Python
 | :rocket: URL         | -
-| :fire: Desafio     | https://www.alura.com.br/challenges/data-science/
+| :fire: Desafio     |
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://files.tecnoblog.net/wp-content/uploads/2018/06/digital-brain.jpg?raw=true#vitrinedev)
+![](https://miro.medium.com/max/720/1*WIySLSiL4tyM7_BSHBGkMw.png?raw=true#vitrinedev)
