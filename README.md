@@ -42,6 +42,9 @@ Se quiser pode conectar comigo no linkedin também: https://www.linkedin.com/in/
 
 **Espero que esse guia possa te ajudar de alguma forma. Aproveite!!** 😄😄
 
+---
+
+
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Riot API Project**
